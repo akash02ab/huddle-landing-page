@@ -23,11 +23,11 @@ Users should be able to:
 
 **Desktop**
 
-![](./screenshot)
+![](./screenshot/desktop.png)
 
 **Mobile**
 
-![](./screenshot)
+![](./screenshot/mobile.png)
 
 ### Links
 
@@ -39,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
